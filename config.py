@@ -1,4 +1,4 @@
-TITLE = 'Othello'
+TITLE = 'Othello Alpha-Beta Pruning'
 WIDTH = 700
 HEIGHT = 680
 GAME_SIZE = 8
